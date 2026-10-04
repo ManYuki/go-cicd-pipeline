@@ -31,6 +31,7 @@ Building CI pipelines solves several common software development problems:
 ├── main.go                 # Main application code
 ├── main_test.go            # Automated tests
 └── README.md               # Documentation
+```
 
 Local Development Guide
 
