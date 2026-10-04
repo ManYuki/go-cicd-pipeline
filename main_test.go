@@ -1,9 +1,3 @@
 package main
-
 import "testing"
-
-func TestMain(t *testing.T) {
-    if 1+1 != 2 {
-        t.Errorf("Math is broken")
-    }
-}
+func TestMain(t *testing.T) { if 1+1 != 2 { t.Errorf("Math is broken") } }
